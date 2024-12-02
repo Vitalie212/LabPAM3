@@ -1,0 +1,85 @@
+{
+  "banners": [
+    {
+      "title": "Summer Sale",
+      "description": "Save up to 50% on all summer products!",
+      "imagePath": "assets/first.png"
+    },
+    {
+      "title": "New Arrivals",
+      "description": "Explore the latest trends in our collection.",
+      "imagePath": "assets/first.png"
+    },
+    {
+      "title": "Holiday Discounts",
+      "description": "Discover amazing holiday discounts!",
+      "imagePath": "assets/first.png"
+    },
+    {
+      "title": "Exclusive Offer",
+      "description": "Sign up to get an exclusive 10% discount.",
+      "imagePath": "assets/first.png"
+    }
+  ],
+
+  "categories": [
+    { "name": "Dentistry", "iconPath": "assets/dentist.png" },
+    { "name": "Cardiology", "iconPath": "assets/cardio.png" },
+    { "name": "Pulmonology", "iconPath": "assets/pulmo.png" },
+    { "name": "General Medicine", "iconPath": "assets/general.png" },
+    { "name": "Neurology", "iconPath": "assets/neuro.png" },
+    { "name": "Gastroenterology", "iconPath": "assets/gastro.png" },
+    { "name": "Laboratory Services", "iconPath": "assets/labs.png" },
+    { "name": "Vaccination", "iconPath": "assets/vacc.png" }
+  ],
+
+  "nearbyCenters": [
+    {
+      "imagePath": "assets/second.jpeg",
+      "name": "Medical Center 1",
+      "address": "Location 1",
+      "rating": 4.1,
+      "reviewCount": 102,
+      "distance": { "km": 1.1, "minutes": 6 }
+    },
+    {
+      "imagePath": "assets/third.jpeg",
+      "name": "Medical Center 2",
+      "address": "Location 2",
+      "rating": 4.2,
+      "reviewCount": 104,
+      "distance": { "km": 1.1, "minutes": 7 }
+    },
+    {
+      "imagePath": "assets/second.jpeg",
+      "name": "Medical Center 3",
+      "address": "Location 3",
+      "rating": 4.3,
+      "reviewCount": 106,
+      "distance": { "km": 1.1, "minutes": 8 }
+    },
+    {
+      "imagePath": "assets/third.jpeg",
+      "name": "Medical Center 4",
+      "address": "Location 4",
+      "rating": 4.4,
+      "reviewCount": 108,
+      "distance": { "km": 1.2, "minutes": 9 }
+    },
+    {
+      "imagePath": "assets/second.jpeg",
+      "name": "Medical Center 5",
+      "address": "Location 5",
+      "rating": 4.5,
+      "reviewCount": 110,
+      "distance": { "km": 1.2, "minutes": 10 }
+    }
+  ],
+
+  "doctors": [
+    {
+      "imagePath": "assets/david.png",
+      "name": "Dr. David",
+      "specialty": "Cardiologist",
+      "location": "Health Center 1, USA",
+      "rating": 5.0,
